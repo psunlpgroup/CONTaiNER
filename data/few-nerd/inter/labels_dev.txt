@@ -1,0 +1,14 @@
+O
+organization-showorganization
+location-park
+art-painting
+other-currency
+product-game
+organization-religion
+product-train
+person-scholar
+event-other
+building-other
+building-library
+other-chemicalthing
+person-other

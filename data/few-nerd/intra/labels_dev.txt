@@ -1,0 +1,15 @@
+O
+event-attack/battle/war/militaryconflict
+building-theater
+event-disaster
+building-sportsfacility
+event-protest
+building-restaurant
+event-other
+building-hotel
+event-sportsevent
+event-election
+building-hospital
+building-other
+building-library
+building-airport
