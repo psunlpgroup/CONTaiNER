@@ -112,7 +112,7 @@ def calculate_KL_or_euclidean(self, attention_mask, original_embedding_mu, origi
     loss_weights = loss_weights * loss_mask
 
     #ensure that the vector sizes are of filtered_instances_nos * filtered_instances_nos
-    assert(len(repeated_labels) == (filtered_instances_nos * filtered_instances_nos), "dimension is not of square shape.")
+    assert len(repeated_labels) == (filtered_instances_nos * filtered_instances_nos), "dimension is not of square shape."
 
     if loss_type == "euclidean":
         loss = -euclidean_distance(filtered_embedding_mu, repeated_output_embeddings_mu, normalize=True)
