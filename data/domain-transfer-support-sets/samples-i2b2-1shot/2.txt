@@ -1,0 +1,118 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+He	O
+is	O
+retired	O
+and	O
+previously	O
+ran	O
+an	O
+Italian	B-ORGANIZATION
+restaurant	I-ORGANIZATION
+.	O
+
+DEXTER	B-DOCTOR
+N.	I-DOCTOR
+JOHNSON	I-DOCTOR
+,	O
+M.D.	O
+DJ50	B-USERNAME
+D:04/10/96	B-DATE
+
+73	B-STREET
+Weymouth	I-STREET
+Dr	I-STREET
+Plymouth	B-CITY
+,	O
+IN	B-STATE
+46368	B-ZIP
+DD	O
+:	O
+
+Raul	B-DOCTOR
+Quilici	I-DOCTOR
+,	O
+MD	O
+Pager	O
+:	O
+#	O
+99591	B-PHONE
+
+Continues	O
+to	O
+work	O
+as	O
+a	O
+sales	B-PROFESSION
+representative	I-PROFESSION
+.	O
+
+Peggy	B-DOCTOR
+Chaya	I-DOCTOR
+Quebedeaux	I-DOCTOR
+,	O
+M.D.	O
+CT	B-IDNUM
+:	I-IDNUM
+
+17-Jan-2105	B-DATE
+17:37	O
+Accession	O
+#	O
+7248B75977	B-MEDICALRECORD
+
+Significant	O
+for	O
+brother	O
+had	O
+an	O
+MI	O
+at	O
+age	O
+68	B-AGE
+.	O
+
+Booker	B-PATIENT
+,	I-PATIENT
+Jennifer	I-PATIENT
+MRN	O
+:	O
+727	B-MEDICALRECORD
+
+o	O
+vfib	O
+arrest	O
+and	O
+severe	O
+3-vd	O
+,	O
+transferred	O
+back	O
+to	O
+NAMC	B-HOSPITAL
+from	O
+FMC	B-HOSPITAL
+in	O
+preparation	O
+for	O
+CABG	O
+planned	O
+03/07/33	B-DATE
+.	O
+

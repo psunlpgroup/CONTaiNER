@@ -1,0 +1,129 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+HPI	O
+Exercise	O
+:	O
+HS	O
+football	O
+westling	O
+,	O
+military	B-ORGANIZATION
+wrestling	O
+,	O
+coll	O
+wrestling	O
+,	O
+7	O
+mi	O
+/	O
+d	O
+run	O
+,	O
+tennis	O
+for	O
+20	O
+yrs	O
+w/	O
+wife	O
+.	O
+
+Dictated	O
+by	O
+:	O
+ULICES	B-DOCTOR
+ZAMUDIO	I-DOCTOR
+,	O
+M.D.	O
+UZ8	B-USERNAME
+
+Brookshire	B-CITY
+,	O
+MO	B-STATE
+15345	B-ZIP
+4	B-DATE
+-	I-DATE
+12	I-DATE
+-	I-DATE
+84	I-DATE
+Referring	O
+Physician	O
+:	O
+Dr.	O
+Kenyon	B-DOCTOR
+,	O
+Dr.	O
+Elmer	B-DOCTOR
+Ure	I-DOCTOR
+,	O
+Vallejo	B-HOSPITAL
+General	I-HOSPITAL
+Cardiology	O
+.	O
+
+Raul	B-DOCTOR
+Quilici	I-DOCTOR
+,	O
+MD	O
+Pager	O
+:	O
+#	O
+99591	B-PHONE
+
+Computer	B-PROFESSION
+and	I-PROFESSION
+Network	I-PROFESSION
+Technicians	I-PROFESSION
+for	O
+General	B-ORGANIZATION
+Dynamics	I-ORGANIZATION
+,	O
+covering	O
+8	O
+states	O
+.	O
+
+’s	B-STREET
+Court	I-STREET
+,	I-STREET
+Effingham	I-STREET
+,	B-CITY
+TX	I-CITY
+38866	B-STATE
+
+-	B-IDNUM
+8940866	I-IDNUM
+EMSSten	O
+
+J.	B-PATIENT
+380	B-MEDICALRECORD
+-	I-MEDICALRECORD
+18	I-MEDICALRECORD
+-	I-MEDICALRECORD
+32	I-MEDICALRECORD
+-	I-MEDICALRECORD
+2	I-MEDICALRECORD
+VISIT	O
+DATE	O
+:	O
+
+66	B-AGE
+

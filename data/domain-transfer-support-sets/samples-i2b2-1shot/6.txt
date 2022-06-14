@@ -1,0 +1,97 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+The	O
+patient	O
+said	O
+has	O
+no	O
+plans	O
+to	O
+get	O
+a	O
+doctor	O
+in	O
+America	B-COUNTRY
+.	O
+
+was	O
+"	O
+packaging	B-PROFESSION
+manager	I-PROFESSION
+for	O
+Johnson	B-ORGANIZATION
+&	I-ORGANIZATION
+Johnson	I-ORGANIZATION
+"	O
+
+UH02	B-USERNAME
+
+9890	B-STREET
+Lacy	I-STREET
+Street	I-STREET
+Pecos	B-CITY
+,	O
+FL	B-STATE
+14347	B-ZIP
+
+Lonaconing	B-CITY
+,	O
+CT	B-STATE
+91197	B-ZIP
+46103196	B-MEDICALRECORD
+829	B-PHONE
+-	I-PHONE
+1293	I-PHONE
+3	B-DATE
+-	I-DATE
+09	I-DATE
+-	I-DATE
+67	I-DATE
+PAGE	O
+2	O
+3	O
+.	O
+
+JM:99704	B-IDNUM
+:	I-IDNUM
+137	I-IDNUM
+
+Mr.	O
+Martin	B-PATIENT
+is	O
+a	O
+52-year	B-AGE
+-	O
+old	O
+male	O
+with	O
+paroxysmal	O
+atrial	O
+fibrillation	O
+and	O
+ischemia	O
+noted	O
+on	O
+recent	O
+SESTA	O
+MIBI	O
+.	O
+
+Udo	B-DOCTOR
+O.	I-DOCTOR
+Zeitler	I-DOCTOR
+,	O
+GMS	B-HOSPITAL
+III	O
+Pager	O
+#	O
+61303	B-PHONE
+

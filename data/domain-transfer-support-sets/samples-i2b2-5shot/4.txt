@@ -1,0 +1,537 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+The	O
+patient	O
+speaks	O
+Korean	B-COUNTRY
+with	O
+limited	O
+English	O
+and	O
+is	O
+here	O
+with	O
+his	O
+wife	O
+who	O
+informed	O
+me	O
+that	O
+they	O
+are	O
+here	O
+for	O
+a	O
+followup	O
+visit	O
+after	O
+an	O
+inpatient	O
+hospitalization	O
+at	O
+as	O
+best	O
+as	O
+I	O
+could	O
+understand	O
+it	O
+was	O
+Abbott	B-HOSPITAL
+Hospital	I-HOSPITAL
+.	O
+
+He	O
+is	O
+a	O
+mostly	O
+German	B-COUNTRY
+-	O
+speaking	O
+man	O
+.	O
+
+He	O
+is	O
+originally	O
+from	O
+England	B-COUNTRY
+.	O
+
+He	O
+drank	O
+heavily	O
+after	O
+Korea	B-COUNTRY
+(	O
+field	B-PROFESSION
+nurse	I-PROFESSION
+)	O
+and	O
+had	O
+depression	O
+at	O
+that	O
+time	O
+.	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+Ms	O
+Rivers	B-PATIENT
+was	O
+in	O
+her	O
+USOH	O
+until	O
+the	O
+morning	O
+of	O
+admission	O
+,	O
+when	O
+she	O
+went	O
+into	O
+the	O
+city	O
+to	O
+buy	O
+some	O
+buttons	O
+and	O
+pay	O
+a	O
+bill	O
+at	O
+ViewSonic	B-ORGANIZATION
+.	O
+
+He	O
+works	O
+as	O
+a	O
+Patternmaker	B-PROFESSION
+for	O
+McCall	B-ORGANIZATION
+in	O
+Enid	B-CITY
+.	O
+
+Retired	O
+as	O
+statistical	B-PROFESSION
+programmer	I-PROFESSION
+at	O
+Electronic	B-ORGANIZATION
+Data	I-ORGANIZATION
+after	O
+DM	O
+diagnosis	O
+18	O
+years	O
+ago	O
+.	O
+
+He	O
+is	O
+a	O
+set	B-PROFESSION
+designer	I-PROFESSION
+at	O
+Columbia	B-ORGANIZATION
+Pictures	I-ORGANIZATION
+.	O
+
+was	O
+"	O
+packaging	B-PROFESSION
+manager	I-PROFESSION
+for	O
+Johnson	B-ORGANIZATION
+&	I-ORGANIZATION
+Johnson	I-ORGANIZATION
+"	O
+
+LE72	B-USERNAME
+
+STEVE	B-DOCTOR
+NUTT	I-DOCTOR
+,	O
+M.D.	O
+SN2	B-USERNAME
+
+SP59	B-USERNAME
+
+Dictated	O
+by	O
+:	O
+HARRIET	B-DOCTOR
+XIA	I-DOCTOR
+,	O
+M.D.	O
+HX82	B-USERNAME
+
+QC22	B-USERNAME
+D:02/05/81	B-DATE
+
+Snowflake	B-CITY
+,	O
+HI	B-STATE
+,	O
+99981	B-ZIP
+-	I-ZIP
+2297	I-ZIP
+RE	O
+:	O
+
+Edmatteric	B-STREET
+Drive	I-STREET
+,	O
+Cheney	B-CITY
+,	O
+TX	B-STATE
+37523	B-ZIP
+
+Brazzaville	B-CITY
+,	O
+UT	B-STATE
+33953	B-ZIP
+
+62981	B-ZIP
+
+CHARLEMONT	B-CITY
+,	O
+IA	B-STATE
+79229	B-ZIP
+
+93756	B-PHONE
+
+Record	O
+date	O
+:	O
+2064	B-DATE
+-	I-DATE
+06	I-DATE
+-	I-DATE
+19	I-DATE
+Arthritis	O
+Center	O
+(	B-PHONE
+581	I-PHONE
+)	I-PHONE
+730	I-PHONE
+-	I-PHONE
+4429	I-PHONE
+
+Lonaconing	B-CITY
+,	O
+CT	B-STATE
+91197	B-ZIP
+46103196	B-MEDICALRECORD
+829	B-PHONE
+-	I-PHONE
+1293	I-PHONE
+3	B-DATE
+-	I-DATE
+09	I-DATE
+-	I-DATE
+67	I-DATE
+HPI	O
+:	O
+
+403	B-PHONE
+-	I-PHONE
+5583	I-PHONE
+
+Xai	B-DOCTOR
+-	I-DOCTOR
+Micah	I-DOCTOR
+Church	I-DOCTOR
+,	O
+MD	O
+-	O
+Pager	O
+#	O
+73615	B-PHONE
+
+49	B-STREET
+Pheasant	I-STREET
+Lane	I-STREET
+Brookshire	B-CITY
+,	O
+MO	B-STATE
+15345	B-ZIP
+Elmer	B-DOCTOR
+Ure	I-DOCTOR
+,	O
+
+92	B-STREET
+Cleveland	I-STREET
+Street	I-STREET
+
+352	B-STREET
+Eldorado	I-STREET
+Circle	I-STREET
+Coeburn	B-CITY
+,	O
+WA	B-STATE
+42646	B-ZIP
+
+73	B-STREET
+Weymouth	I-STREET
+Dr	I-STREET
+Plymouth	B-CITY
+,	O
+IN	B-STATE
+46368	B-ZIP
+DD	O
+:	O
+
+-	B-IDNUM
+65347834	I-IDNUM
+BFFocus	O
+
+JM057/26484	B-IDNUM
+
+QG:8455	B-IDNUM
+DD:11	B-DATE
+-	I-DATE
+16	I-DATE
+-	I-DATE
+78	I-DATE
+
+Richard	B-DOCTOR
+F.	I-DOCTOR
+Vidal	I-DOCTOR
+,	O
+M.D.	O
+VD	B-IDNUM
+:	I-IDNUM
+IP:7913	I-IDNUM
+
+Xitlali	B-DOCTOR
+Crane	I-DOCTOR
+,	O
+M.D.	O
+FS	B-IDNUM
+:	I-IDNUM
+XI:4842	I-IDNUM
+
+Youngman	B-PATIENT
+,	I-PATIENT
+Codi	I-PATIENT
+06386371	B-MEDICALRECORD
+
+MR	O
+#	O
+04561326	B-MEDICALRECORD
+
+FMC	B-HOSPITAL
+05-Mar-2133	B-DATE
+08:15	O
+Accession	O
+#	O
+5715	B-MEDICALRECORD
+:	I-MEDICALRECORD
+
+Habib	B-DOCTOR
+Valenzuela	I-DOCTOR
+,	O
+M.D.	O
+Valdez	B-PATIENT
+,	I-PATIENT
+Harlan	I-PATIENT
+Jr.	I-PATIENT
+845	B-MEDICALRECORD
+-	I-MEDICALRECORD
+41	I-MEDICALRECORD
+-	I-MEDICALRECORD
+54	I-MEDICALRECORD
+-	I-MEDICALRECORD
+4	I-MEDICALRECORD
+February	B-DATE
+12	I-DATE
+,	I-DATE
+2106	I-DATE
+
+Note	O
+45	B-AGE
+yo	O
+female	O
+with	O
+Hepatitis	O
+C	O
+,	O
+
+A	O
+37-year	B-AGE
+-	O
+old	O
+woman	O
+with	O
+multiple	O
+medical	O
+problems	O
+as	O
+follows	O
+:	O
+1	O
+.	O
+Type	O
+2	O
+diabetes	O
+.	O
+
+A	O
+/	O
+P	O
+:	O
+61	B-AGE
+yr	O
+old	O
+female	O
+with	O
+likely	O
+bacterial	O
+respiratory	O
+infection	O
+in	O
+the	O
+setting	O
+of	O
+longstanding	O
+bronchiectasis	O
+.	O
+
+Bronchiectasis	O
+:	O
+Recurrent	O
+PNA	O
+since	O
+3yo	B-AGE
+,	O
+s	O
+/	O
+p	O
+RML	O
+lobectomy	O
+2128	B-DATE
+
+Brother	O
+-	O
+CABG	O
+with	O
+redo	O
+in	O
+his	O
+40	B-AGE
+'s	I-AGE
+,	O
+now	O
+has	O
+CHF	O
+
+JULIA	B-PATIENT
+840	B-MEDICALRECORD
+-	I-MEDICALRECORD
+91	I-MEDICALRECORD
+-	I-MEDICALRECORD
+51	I-MEDICALRECORD
+-	I-MEDICALRECORD
+9	I-MEDICALRECORD
+VISIT	O
+DATE	O
+:	O
+
+On	O
+physical	O
+examination	O
+Ms.	O
+Vincent	B-PATIENT
+is	O
+a	O
+56-year	B-AGE
+-	O
+old	O
+woman	O
+in	O
+no	O
+distress	O
+.	O
+
+SFOC	B-HOSPITAL
+
+Has	O
+had	O
+workup	O
+at	O
+MeritCare	B-HOSPITAL
+Clinic	I-HOSPITAL
+ASA	O
+81	O
+.	O
+
+SFOC	B-HOSPITAL
+records	O
+are	O
+unavailable	O
+at	O
+this	O
+time	O
+.	O
+

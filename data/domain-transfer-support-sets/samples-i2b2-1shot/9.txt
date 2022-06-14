@@ -1,0 +1,97 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+He	O
+is	O
+a	O
+mostly	O
+German	B-COUNTRY
+-	O
+speaking	O
+man	O
+.	O
+
+Is	O
+an	O
+engineer	B-PROFESSION
+at	O
+Amazon	B-ORGANIZATION
+who	O
+coordinates	B-PROFESSION
+site	I-PROFESSION
+updates	I-PROFESSION
+
+MU830	B-USERNAME
+D:11/24/67	B-DATE
+T:11/24/67	B-DATE
+
+73116	B-ZIP
+92819461	B-MEDICALRECORD
+899	B-PHONE
+-	I-PHONE
+2991	I-PHONE
+11	B-DATE
+-	I-DATE
+16	I-DATE
+-	I-DATE
+78	I-DATE
+
+Cambridge	B-STREET
+St	I-STREET
+Hart	B-PATIENT
+,	I-PATIENT
+Matthew	I-PATIENT
+
+Tonkawa	B-CITY
+,	O
+WA	B-STATE
+67495	B-ZIP
+
+Xitlali	B-DOCTOR
+Crane	I-DOCTOR
+,	O
+M.D.	O
+FS	B-IDNUM
+:	I-IDNUM
+XI:4842	I-IDNUM
+
+This	O
+71	B-AGE
+year	O
+-	O
+old	O
+right	O
+-	O
+handed	O
+woman	O
+with	O
+multiple	O
+medical	O
+problems	O
+who	O
+presents	O
+with	O
+subacute	O
+impaired	O
+speech	O
+fluency	O
+.	O
+
+Is	O
+now	O
+getting	O
+her	O
+diabetes	O
+care	O
+through	O
+the	O
+HMC	B-HOSPITAL
+.	O
+

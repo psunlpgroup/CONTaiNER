@@ -1,0 +1,563 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+He	O
+drank	O
+heavily	O
+after	O
+Korea	B-COUNTRY
+(	O
+field	B-PROFESSION
+nurse	I-PROFESSION
+)	O
+and	O
+had	O
+depression	O
+at	O
+that	O
+time	O
+.	O
+
+Well	O
+appearing	O
+,	O
+elderly	O
+Iranian	B-COUNTRY
+male	O
+in	O
+no	O
+apparent	O
+respiratory	O
+distress	O
+.	O
+
+The	O
+patient	O
+used	O
+to	O
+live	O
+in	O
+England	B-COUNTRY
+4	O
+days	O
+ago	O
+,	O
+arrived	O
+in	O
+Frankenmuth	B-CITY
+to	O
+live	O
+now	O
+permanently	O
+with	O
+his	O
+family	O
+here	O
+.	O
+
+She	O
+plans	O
+a	O
+trip	O
+to	O
+Peru	B-COUNTRY
+soon	O
+.	O
+
+He	O
+is	O
+originally	O
+from	O
+England	B-COUNTRY
+.	O
+
+It	O
+does	O
+n't	O
+hurt	O
+when	O
+he	O
+is	O
+working	O
+in	O
+the	O
+McCormick	B-ORGANIZATION
+Company	I-ORGANIZATION
+.	O
+
+was	O
+"	O
+packaging	B-PROFESSION
+manager	I-PROFESSION
+for	O
+Johnson	B-ORGANIZATION
+&	I-ORGANIZATION
+Johnson	I-ORGANIZATION
+"	O
+
+Previously	O
+worked	O
+as	O
+a	O
+engineer	B-PROFESSION
+at	O
+IBM	B-ORGANIZATION
+research	I-ORGANIZATION
+,	O
+retried	O
+a	O
+few	O
+yrs	O
+ago	O
+.	O
+
+Ms	O
+Rivers	B-PATIENT
+was	O
+in	O
+her	O
+USOH	O
+until	O
+the	O
+morning	O
+of	O
+admission	O
+,	O
+when	O
+she	O
+went	O
+into	O
+the	O
+city	O
+to	O
+buy	O
+some	O
+buttons	O
+and	O
+pay	O
+a	O
+bill	O
+at	O
+ViewSonic	B-ORGANIZATION
+.	O
+
+HPI	O
+Exercise	O
+:	O
+HS	O
+football	O
+westling	O
+,	O
+military	B-ORGANIZATION
+wrestling	O
+,	O
+coll	O
+wrestling	O
+,	O
+7	O
+mi	O
+/	O
+d	O
+run	O
+,	O
+tennis	O
+for	O
+20	O
+yrs	O
+w/	O
+wife	O
+.	O
+
+Dictated	O
+by	O
+:	O
+ULICES	B-DOCTOR
+ZAMUDIO	I-DOCTOR
+,	O
+M.D.	O
+UZ8	B-USERNAME
+
+BO907	B-USERNAME
+
+Quinn	B-DOCTOR
+Rutledge	I-DOCTOR
+,	O
+M.D.	O
+QR	B-DOCTOR
+/	O
+RM5	B-USERNAME
+
+MU830	B-USERNAME
+D:11/24/67	B-DATE
+T:11/24/67	B-DATE
+
+BY01	B-USERNAME
+
+Terrell	B-CITY
+,	O
+AR	B-STATE
+72985	B-ZIP
+
+Tonkawa	B-CITY
+,	O
+WA	B-STATE
+67495	B-ZIP
+
+Snowflake	B-CITY
+,	O
+HI	B-STATE
+,	O
+99981	B-ZIP
+-	I-ZIP
+2297	I-ZIP
+RE	O
+:	O
+
+Brookshire	B-CITY
+,	O
+MO	B-STATE
+15345	B-ZIP
+4	B-DATE
+-	I-DATE
+12	I-DATE
+-	I-DATE
+84	I-DATE
+Page	O
+2	O
+Family	O
+History	O
+:	O
+
+Juana	B-CITY
+Diaz	I-CITY
+,	O
+CT	B-STATE
+89568	B-ZIP
+
+HPC	B-HOSPITAL
+Neuro	O
+Resident	O
+#	O
+48600	B-PHONE
+
+Pager	O
+#	O
+60809	B-PHONE
+
+Trenton	B-DOCTOR
+Pena	I-DOCTOR
+,	O
+M.D.	O
+#	O
+25329	B-PHONE
+
+Page	O
+#	O
+96082	B-PHONE
+
+28793	B-PHONE
+
+He	O
+works	O
+as	O
+a	O
+Patternmaker	B-PROFESSION
+for	O
+McCall	B-ORGANIZATION
+in	O
+Enid	B-CITY
+.	O
+
+CPA	B-PROFESSION
+and	O
+lives	O
+with	O
+wife	O
+in	O
+Tonganoxie	B-CITY
+.	O
+
+0758	B-STREET
+Edmatteric	I-STREET
+Drive	I-STREET
+
+23	B-STREET
+Colgate	I-STREET
+Road	I-STREET
+Youngman	B-PATIENT
+,	I-PATIENT
+Cody	I-PATIENT
+Cincinnati	B-CITY
+,	O
+WA	B-STATE
+33699	B-ZIP
+
+Oreilly	B-DOCTOR
+,	O
+M.D.	O
+,	O
+Family	B-HOSPITAL
+Practice	I-HOSPITAL
+Missoula	I-HOSPITAL
+Ivan	B-DOCTOR
+Upson	I-DOCTOR
+,	O
+M.D.	O
+,	O
+Radford	B-HOSPITAL
+Community	I-HOSPITAL
+Hospital	I-HOSPITAL
+,	O
+0808	B-STREET
+
+18	B-STREET
+Newburgh	I-STREET
+Street	I-STREET
+
+cc	O
+:	O
+Edward	B-DOCTOR
+Xanthos	I-DOCTOR
+,	O
+M.D.	O
+Saint	B-HOSPITAL
+Francis	I-HOSPITAL
+Outpatient	I-HOSPITAL
+Center	I-HOSPITAL
+784	B-STREET
+Greatstone	I-STREET
+Drive	I-STREET
+Boulder	B-CITY
+,	O
+CO	B-STATE
+72529	B-ZIP
+
+TR	O
+:	O
+7999590	B-IDNUM
+
+Michael	B-DOCTOR
+Uecker	I-DOCTOR
+,	O
+M.D.	O
+PD	B-IDNUM
+:	I-IDNUM
+UD:1698	I-IDNUM
+
+502491.do	B-IDNUM
+
+JP	B-IDNUM
+:	I-IDNUM
+BT:6157	I-IDNUM
+
+GW:1014	B-IDNUM
+:	I-IDNUM
+04	I-IDNUM
+
+57	B-MEDICALRECORD
+14	I-MEDICALRECORD
+Date	O
+of	O
+admission	O
+:	O
+
+02	B-MEDICALRECORD
+38	I-MEDICALRECORD
+
+1672569	B-MEDICALRECORD
+
+FMC	B-HOSPITAL
+05-Mar-2133	B-DATE
+08:15	O
+Accession	O
+#	O
+5715	B-MEDICALRECORD
+:	I-MEDICALRECORD
+
+179	B-STREET
+Lunar	I-STREET
+Lane	I-STREET
+61248040	B-MEDICALRECORD
+
+Mr.	O
+Martin	B-PATIENT
+is	O
+a	O
+52-year	B-AGE
+-	O
+old	O
+male	O
+with	O
+paroxysmal	O
+atrial	O
+fibrillation	O
+and	O
+ischemia	O
+noted	O
+on	O
+recent	O
+SESTA	O
+MIBI	O
+.	O
+
+Cardiologist	O
+:	O
+Valdivia	B-DOCTOR
+CC	O
+:	O
+73	B-AGE
+yo	O
+woman	O
+with	O
+h	O
+/	O
+
+64yo	B-AGE
+F	O
+RH	O
+presents	O
+with	O
+traumatic	O
+brain	O
+injury	O
+s	O
+/	O
+p	O
+being	O
+struck	O
+by	O
+car	O
+.	O
+
+This	O
+patient	O
+is	O
+a	O
+50-year	B-AGE
+-	O
+old	O
+male	O
+that	O
+presents	O
+to	O
+Wausau	B-HOSPITAL
+Memorial	I-HOSPITAL
+Hospital	I-HOSPITAL
+Department	O
+of	O
+Emergency	O
+
+This	O
+is	O
+a	O
+29	B-AGE
+year	O
+old	O
+woman	O
+with	O
+diabetes	O
+and	O
+obesity	O
+.	O
+
+Hart	B-PATIENT
+,	I-PATIENT
+Matthew	I-PATIENT
+
+Ms.	O
+Levin	B-PATIENT
+is	O
+a	O
+55-year	B-AGE
+-	O
+old	O
+diabetic	O
+woman	O
+with	O
+progressive	O
+anginal	O
+symptoms	O
+with	O
+known	O
+moderate	O
+3-vessel	O
+coronary	O
+artery	O
+disease	O
+from	O
+4	O
+years	O
+ago	O
+with	O
+at	O
+least	O
+moderate	O
+risk	O
+,	O
+positive	O
+stress	O
+test	O
+.	O
+
+Has	O
+Hx	O
+of	O
+RICA	O
+disease	O
+in	O
+2095	B-DATE
+.	O
+

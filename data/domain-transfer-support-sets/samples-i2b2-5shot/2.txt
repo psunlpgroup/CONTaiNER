@@ -1,0 +1,560 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+He	O
+had	O
+had	O
+a	O
+similar	O
+episode	O
+in	O
+the	B-COUNTRY
+UK	I-COUNTRY
+in	O
+the	O
+past	O
+.	O
+
+The	O
+patient	O
+used	O
+to	O
+live	O
+in	O
+England	B-COUNTRY
+4	O
+days	O
+ago	O
+,	O
+arrived	O
+in	O
+Frankenmuth	B-CITY
+to	O
+live	O
+now	O
+permanently	O
+with	O
+his	O
+family	O
+here	O
+.	O
+
+He	O
+drank	O
+heavily	O
+after	O
+Korea	B-COUNTRY
+(	O
+field	B-PROFESSION
+nurse	I-PROFESSION
+)	O
+and	O
+had	O
+depression	O
+at	O
+that	O
+time	O
+.	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+The	O
+patient	O
+said	O
+has	O
+no	O
+plans	O
+to	O
+get	O
+a	O
+doctor	O
+in	O
+America	B-COUNTRY
+.	O
+
+He	O
+works	O
+as	O
+an	O
+Revenue	B-PROFESSION
+Officer	I-PROFESSION
+for	O
+Springfield	B-ORGANIZATION
+Armory	I-ORGANIZATION
+Inc	I-ORGANIZATION
+in	O
+Picture	B-CITY
+Rocks	I-CITY
+,	O
+Maine	B-STATE
+.	O
+
+Retired	O
+from	O
+aon	B-ORGANIZATION
+plc	I-ORGANIZATION
+.	O
+
+Previously	O
+worked	O
+as	O
+a	O
+engineer	B-PROFESSION
+in	O
+IBM	B-ORGANIZATION
+research	I-ORGANIZATION
+,	O
+retried	O
+a	O
+few	O
+yrs	O
+ago	O
+.	O
+
+Occupation	O
+:	O
+Engineer	B-PROFESSION
+at	O
+Amazon	B-ORGANIZATION
+.	O
+
+She	O
+is	O
+going	O
+to	O
+the	O
+Summer	B-ORGANIZATION
+Institute	I-ORGANIZATION
+for	I-ORGANIZATION
+the	I-ORGANIZATION
+Gifted	I-ORGANIZATION
+.	O
+
+Quinn	B-DOCTOR
+Rutledge	I-DOCTOR
+,	O
+M.D.	O
+QR	B-DOCTOR
+/	O
+RM5	B-USERNAME
+
+MU830	B-USERNAME
+
+HARRIET	B-DOCTOR
+XIA	I-DOCTOR
+,	O
+M.D.	O
+HX82	B-USERNAME
+D:04/06/75	B-DATE
+
+STEVE	B-DOCTOR
+NUTT	I-DOCTOR
+,	O
+M.D.	O
+SN2	B-USERNAME
+
+HO78	B-USERNAME
+
+Terrell	B-CITY
+,	O
+AR	B-STATE
+72985	B-ZIP
+
+Dr.	O
+Tawn	B-DOCTOR
+Johanson	I-DOCTOR
+,	O
+73	B-STREET
+Elm	I-STREET
+Court	I-STREET
+,	O
+Rm	O
+.	O
+54	O
+,	O
+Albertville	B-CITY
+,	O
+WI	B-STATE
+63721	B-ZIP
+
+Coeburn	B-CITY
+,	O
+WA	B-STATE
+42646	B-ZIP
+RE	O
+:	O
+Kenneth	B-PATIENT
+Umstead	I-PATIENT
+
+Terrell	B-CITY
+,	O
+AR	B-STATE
+72985	B-ZIP
+
+Brookshire	B-CITY
+,	O
+MO	B-STATE
+15345	B-ZIP
+4	B-DATE
+-	I-DATE
+12	I-DATE
+-	I-DATE
+84	I-DATE
+Referring	O
+Physician	O
+:	O
+Dr.	O
+Kenyon	B-DOCTOR
+,	O
+Dr.	O
+Elmer	B-DOCTOR
+Ure	I-DOCTOR
+,	O
+Vallejo	B-HOSPITAL
+General	I-HOSPITAL
+Cardiology	O
+.	O
+
+Pager	O
+#	O
+46002	B-PHONE
+
+895.376.3157	B-PHONE
+
+Lonaconing	B-CITY
+,	O
+CT	B-STATE
+91197	B-ZIP
+46103196	B-MEDICALRECORD
+829	B-PHONE
+-	I-PHONE
+1293	I-PHONE
+3	B-DATE
+-	I-DATE
+09	I-DATE
+-	I-DATE
+67	I-DATE
+PAGE	O
+2	O
+3	O
+.	O
+
+#	O
+03533	B-PHONE
+
+33953	B-ZIP
+71701456	B-MEDICALRECORD
+403	B-PHONE
+-	I-PHONE
+5583	I-PHONE
+
+Retired	O
+lab	B-PROFESSION
+tech	I-PROFESSION
+.	O
+
+13	B-STREET
+Willow	I-STREET
+St	I-STREET
+Stephenson	B-PATIENT
+,	I-PATIENT
+Brenda	I-PATIENT
+
+82	B-STREET
+Ferry	I-STREET
+Road	I-STREET
+OCAMPO	B-PATIENT
+,	I-PATIENT
+NATHAN	I-PATIENT
+-	I-PATIENT
+OLIVER	I-PATIENT
+
+18	B-STREET
+Newburgh	I-STREET
+Street	I-STREET
+
+01	B-STREET
+
+957307.doc	B-IDNUM
+
+RJdkyfbv	B-IDNUM
+
+KY:1946	B-IDNUM
+DD:4	B-DATE
+
+852182	B-IDNUM
+
+eScription	O
+document:4	B-IDNUM
+-	I-IDNUM
+4238782	I-IDNUM
+
+Record	O
+date	O
+:	O
+2085	B-DATE
+-	I-DATE
+06	I-DATE
+-	I-DATE
+13	I-DATE
+EDVISIT^53718748^Johnson	B-MEDICALRECORD
+,	B-PATIENT
+Pepper^06/13/85^UMANA	I-PATIENT
+,	B-DOCTOR
+
+Lunar	B-STREET
+Lane	I-STREET
+61248040	B-MEDICALRECORD
+
+Hartsville	B-CITY
+,	O
+VA	B-STATE
+84583	B-ZIP
+81325605	B-MEDICALRECORD
+
+66	B-AGE
+y.o	O
+.	O
+
+68yo	B-AGE
+M	O
+with	O
+h	O
+/	O
+
+negative	O
+IMPRESSION	O
+:	O
+49yoRHM	B-AGE
+w/	O
+PMH	O
+signif	O
+for	O
+CAD	O
+,	O
+DM	O
+,	O
+Bipolar	O
+disorder	O
+,	O
+afib	O
+,	O
+s	O
+/	O
+p	O
+recent	O
+cardiac	O
+cath	O
+who	O
+presents	O
+w/	O
+LUE	O
+weakness	O
+10d	O
+prior	O
+to	O
+admission	O
+resolving	O
+after	O
+4	O
+-	O
+5	O
+days	O
+,	O
+and	O
+RLE	O
+weakness?/sensory	O
+deficit	O
+?	O
+
+As	O
+you	O
+know	O
+he	O
+is	O
+a	O
+63-year	B-AGE
+-	O
+old	O
+gentleman	O
+with	O
+a	O
+history	O
+of	O
+diabetes	O
+,	O
+high	O
+blood	O
+pressure	O
+and	O
+obesity	O
+.	O
+
+(	O
+1	O
+)	O
+80th	B-AGE
+birthday	O
+.	O
+
+NAME	O
+:	O
+Usrey	B-PATIENT
+,	I-PATIENT
+
+Record	O
+date	O
+:	O
+2135	B-DATE
+-	I-DATE
+09	I-DATE
+-	I-DATE
+08	I-DATE
+CARDIOLOGY	O
+GIBSON	B-HOSPITAL
+COMMUNITY	I-HOSPITAL
+HOSPITAL	I-HOSPITAL
+Reason	O
+for	O
+visit	O
+:	O
+72	B-AGE
+
+THD	B-HOSPITAL
+INTERNAL	O
+MEDICINE	O
+ASSOCIATES	O
+Hart	B-PATIENT
+,	I-PATIENT
+Matthew	I-PATIENT
+Page	O
+2	O
+
+As	O
+you	O
+know	O
+,	O
+he	O
+is	O
+a	O
+very	O
+pleasant	O
+64-year	B-AGE
+-	O
+old	O
+gentleman	O
+who	O
+has	O
+a	O
+history	O
+of	O
+coronary	O
+disease	O
+,	O
+admitted	O
+to	O
+GMH	B-HOSPITAL
+in	O
+June	B-DATE
+2077	I-DATE
+after	O
+a	O
+non	O
+-	O
+ST	O
+-	O
+elevation	O
+MI	O
+,	O
+and	O
+had	O
+a	O
+bare	O
+-	O
+metal	O
+stent	O
+placed	O
+in	O
+his	O
+LAD	O
+.	O
+
+I	O
+am	O
+concerned	O
+that	O
+he	O
+is	O
+on	O
+too	O
+much	O
+regular	O
+insulin	O
+causing	O
+his	O
+nightsweats	O
+and	O
+his	O
+low	O
+glc	O
+at	O
+FCH	B-HOSPITAL
+yesterday	O
+.	O
+

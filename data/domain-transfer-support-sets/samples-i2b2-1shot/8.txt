@@ -1,0 +1,102 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+She	O
+plans	O
+a	O
+trip	O
+to	O
+Peru	B-COUNTRY
+soon	O
+.	O
+
+Berkley	B-ORGANIZATION
+Medical	I-ORGANIZATION
+School	I-ORGANIZATION
+782	B-PHONE
+-	I-PHONE
+010	I-PHONE
+-	I-PHONE
+9623	I-PHONE
+
+BY01	B-USERNAME
+
+Changchun	B-CITY
+,	O
+LA	B-STATE
+14176	B-ZIP
+
+Used	O
+to	O
+work	O
+in	O
+construction	B-PROFESSION
+.	O
+
+206	B-STREET
+
+O	O
+L	O
+Breast	O
+cancer	O
+:	O
+00664	B-IDNUM
+-	O
+
+5747359	B-MEDICALRECORD
+
+The	O
+patient	O
+is	O
+a	O
+51	B-AGE
+year	O
+old	O
+male	O
+with	O
+a	O
+history	O
+of	O
+a	O
+fever	O
+over	O
+the	O
+last	O
+two	O
+days	O
+.	O
+
+Cody	B-PATIENT
+Page	O
+2	O
+06386371	B-MEDICALRECORD
+9	B-DATE
+-	I-DATE
+14	I-DATE
+-	I-DATE
+88	I-DATE
+3	O
+.	O
+
+CENTER	B-HOSPITAL
+Reason	O
+for	O
+visit	O
+:	O
+
+I	O
+agree	O
+with	O
+Dr.	O
+Collins	B-DOCTOR
+'s	O
+note	O
+.	O
+
