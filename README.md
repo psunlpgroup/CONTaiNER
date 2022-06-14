@@ -17,8 +17,9 @@ You can install all required Python packages with `pip install -r requirements.t
    wget -O data/few-nerd/inter/train.txt https://cloud.tsinghua.edu.cn/f/45d55face2a14c098a13/?dl=1
    wget -O data/few-nerd/intra/train.txt https://cloud.tsinghua.edu.cn/f/b169cfbeb90a48c1bf23/?dl=1
    ```
+Update (6/13/2022): Looks like the previous links to Few-NERD dataset is expired. Thanks to [jiayuemoon](https://github.com/jiayuemoon) for pointing this out. Please follow this [issue](https://github.com/psunlpgroup/CONTaiNER/issues/5#issuecomment-1153709315) to get the updated link.
 - Execute [process_fewnerd.sh](process_fewnerd.sh) for preprocessing and organization of support sets and test sets
-- To run the other tests, please obtain permission (publicly not available) and download OntoNotes and other datasets. Then preprocess them in a similar manner. The datasets are required to be in the OntoNotes like NER format as organized in the case of Few-NERD.
+- To run the other tests, please obtain permission (publicly not available) and download OntoNotes and other datasets (Update: the corresponding support sets have been added for the target datasets). Then preprocess them in a similar manner. The datasets are required to be in the OntoNotes like NER format as organized in the case of Few-NERD.
 
 ## Running CONTaiNER
 - Install all dependencies in requirements.txt 
