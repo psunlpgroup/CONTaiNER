@@ -1,0 +1,64 @@
+I	O
+love	O
+your	O
+Tesla	B-product
+videos	O
+!	O
+and	O
+the	O
+value	O
+just	O
+got	O
+higher	O
+yesterday	O
+.	O
+is	O
+it	O
+possible	O
+because	O
+of	O
+a	O
+successfull	O
+SpaceX	B-corporation
+launch	O
+or	O
+why	O
+?	O
+
+So	O
+many	O
+butthurt	O
+Sinophiles	B-group
+in	O
+the	O
+comments	O
+
+where	O
+was	O
+it	O
+?	O
+Turkey	B-location
+?	O
+
+that	O
+'	O
+s	O
+a	O
+big	O
+Pac-	B-creative-work
+Man	I-creative-work
+
+lol	O
+hhay	O
+sometimes	O
+Beauty	B-person
+'	O
+s	O
+mother	O
+reminds	O
+me	O
+of	O
+Amos	B-person
+from	O
+uZalo	B-creative-work
+

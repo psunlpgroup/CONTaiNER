@@ -1,0 +1,128 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+The	O
+patient	O
+used	O
+to	O
+live	O
+in	O
+England	B-COUNTRY
+4	O
+days	O
+ago	O
+,	O
+arrived	O
+in	O
+Frankenmuth	B-CITY
+to	O
+live	O
+now	O
+permanently	O
+with	O
+his	O
+family	O
+here	O
+.	O
+
+It	O
+does	O
+n't	O
+hurt	O
+when	O
+he	O
+is	O
+working	O
+in	O
+the	O
+McCormick	B-ORGANIZATION
+Company	I-ORGANIZATION
+.	O
+
+BY01	B-USERNAME
+D:02/03/73	B-DATE
+T:02/04/73	B-DATE
+
+71183	B-ZIP
+DD	O
+:	O
+11/16/92	B-DATE
+
+Record	O
+date	O
+:	O
+2064	B-DATE
+-	I-DATE
+06	I-DATE
+-	I-DATE
+19	I-DATE
+Arthritis	O
+Center	O
+(	B-PHONE
+581	I-PHONE
+)	I-PHONE
+730	I-PHONE
+-	I-PHONE
+4429	I-PHONE
+
+Retired	O
+firefighter	B-PROFESSION
+
+113	B-STREET
+ANDOVER	I-STREET
+
+Bluefield	B-CITY
+,	O
+ME	B-STATE
+12111	B-ZIP
+
+PO	O
+QD	O
+,	O
+BC	O
+3025235	B-IDNUM
+
+MR	O
+#	O
+612	B-MEDICALRECORD
+-	I-MEDICALRECORD
+48	I-MEDICALRECORD
+-	I-MEDICALRECORD
+04	I-MEDICALRECORD
+-	I-MEDICALRECORD
+0	I-MEDICALRECORD
+
+grandmother	O
+lived	O
+into	O
+80s	B-AGE
+
+TERESA	B-PATIENT
+
+2125	B-DATE
+-	I-DATE
+07	I-DATE
+-	I-DATE
+18	I-DATE
+SRH	B-HOSPITAL
+EMERGENCY	O
+DEPT	O
+VISIT	O
+JONES	B-PATIENT
+,	I-PATIENT
+
+She	O
+will	O
+FU	O
+with	O
+Dr.	O
+Thorpe	B-DOCTOR
+.	O
+

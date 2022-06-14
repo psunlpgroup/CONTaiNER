@@ -1,0 +1,601 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+Well	O
+appearing	O
+,	O
+elderly	O
+Iranian	B-COUNTRY
+male	O
+in	O
+no	O
+apparent	O
+respiratory	O
+distress	O
+.	O
+
+She	O
+plans	O
+a	O
+trip	O
+to	O
+Peru	B-COUNTRY
+soon	O
+.	O
+
+Well	O
+appearing	O
+,	O
+elderly	O
+Iranian	B-COUNTRY
+male	O
+in	O
+no	O
+apparent	O
+respiratory	O
+distress	O
+.	O
+
+The	O
+patient	O
+said	O
+has	O
+no	O
+plans	O
+to	O
+get	O
+a	O
+doctor	O
+in	O
+America	B-COUNTRY
+.	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+HPI	O
+Exercise	O
+:	O
+HS	O
+football	O
+westling	O
+,	O
+military	B-ORGANIZATION
+wrestling	O
+,	O
+coll	O
+wrestling	O
+,	O
+7	O
+mi	O
+/	O
+d	O
+run	O
+,	O
+tennis	O
+for	O
+20	O
+yrs	O
+w/	O
+wife	O
+.	O
+
+(	O
+4	O
+)	O
+Going	O
+to	O
+Eddie	B-ORGANIZATION
+Bauer	I-ORGANIZATION
+2x	O
+/	O
+wk	O
+.	O
+
+He	O
+was	O
+previously	O
+the	O
+head	B-PROFESSION
+statistical	I-PROFESSION
+programmer	I-PROFESSION
+for	O
+electronic	B-ORGANIZATION
+data	I-ORGANIZATION
+systems	I-ORGANIZATION
+for	O
+many	O
+years	O
+and	O
+now	O
+disabled	O
+.	O
+
+Occupation	O
+:	O
+Engineer	B-PROFESSION
+at	O
+Amazon	B-ORGANIZATION
+.	O
+
+Lost	O
+wt	O
+in	O
+military	B-ORGANIZATION
+,	O
+wrestled	O
+at	O
+177	O
+#	O
+,	O
+this	O
+wt	O
+till	O
+25yo	B-AGE
+.	O
+
+HO78	B-USERNAME
+D:02/07/76	B-DATE
+T:02/07/76	B-DATE
+
+ED65	B-USERNAME
+
+SARINA	B-DOCTOR
+BOOTH	I-DOCTOR
+,	O
+M.D.	O
+SB17	B-USERNAME
+
+ED65	B-USERNAME
+
+Dictated	O
+by	O
+:	O
+ULICES	B-DOCTOR
+ZAMUDIO	I-DOCTOR
+,	O
+M.D.	O
+UZ8	B-USERNAME
+
+Cheney	B-CITY
+,	O
+TX	B-STATE
+37523	B-ZIP
+
+M.D.	O
+589	B-STREET
+Eldorado	I-STREET
+Circle	I-STREET
+Coeburn	B-CITY
+,	O
+WA	B-STATE
+42646	B-ZIP
+
+Morris	B-CITY
+,	O
+MO	B-STATE
+95412	B-ZIP
+
+9890	B-STREET
+Lacy	I-STREET
+Street	I-STREET
+Pecos	B-CITY
+,	O
+FL	B-STATE
+14347	B-ZIP
+
+Changchun	B-CITY
+,	O
+LA	B-STATE
+14176	B-ZIP
+
+Eddie	B-DOCTOR
+Zajac	I-DOCTOR
+MD	O
+94212	B-PHONE
+
+bb#78058	B-PHONE
+
+Pager	O
+#	O
+46002	B-PHONE
+
+93756	B-PHONE
+
+Ora	B-DOCTOR
+-	I-DOCTOR
+Jordan	I-DOCTOR
+Yelton	I-DOCTOR
+,	O
+MD	O
+pager	O
+#	O
+33436	B-PHONE
+
+He	O
+works	O
+as	O
+an	O
+Revenue	B-PROFESSION
+Officer	I-PROFESSION
+for	O
+Springfield	B-ORGANIZATION
+Armory	I-ORGANIZATION
+Inc	I-ORGANIZATION
+in	O
+Picture	B-CITY
+Rocks	I-CITY
+,	O
+Maine	B-STATE
+.	O
+
+The	O
+patient	O
+reports	O
+that	O
+he	O
+continues	O
+to	O
+lead	O
+a	O
+very	O
+active	O
+lifestyle	O
+working	O
+as	O
+a	O
+sales	B-PROFESSION
+representative	I-PROFESSION
+roughly	O
+10	O
+hours	O
+
+The	O
+patient	O
+is	O
+retired	O
+,	O
+a	O
+laboratory	B-PROFESSION
+technician	I-PROFESSION
+and	O
+lives	O
+in	O
+cincinnati	B-CITY
+.	O
+
+23	B-STREET
+Whipple	I-STREET
+St	I-STREET
+
+206	B-STREET
+
+534	B-STREET
+Lunar	I-STREET
+Lane	I-STREET
+61248040	B-MEDICALRECORD
+
+MW631/33924	B-IDNUM
+
+055626.doc	B-IDNUM
+
+214	B-IDNUM
+
+-	B-IDNUM
+65347834	I-IDNUM
+BFFocus	O
+
+_	O
+OP274/66298	B-IDNUM
+
+7223692	B-MEDICALRECORD
+
+19-Jan-2088	B-DATE
+11:49	O
+Accession	O
+#	O
+7078Y04327	B-MEDICALRECORD
+
+26649180	B-MEDICALRECORD
+
+236	B-MEDICALRECORD
+-	I-MEDICALRECORD
+67	I-MEDICALRECORD
+-	I-MEDICALRECORD
+03	I-MEDICALRECORD
+-	I-MEDICALRECORD
+3	I-MEDICALRECORD
+June	B-DATE
+6	I-DATE
+,	I-DATE
+2083	I-DATE
+
+This	O
+is	O
+a	O
+76-year	B-AGE
+-	O
+old	O
+man	O
+who	O
+comes	O
+in	O
+with	O
+a	O
+chief	O
+complaint	O
+of	O
+left	O
+calf	O
+pain	O
+.	O
+
+As	O
+you	O
+know	O
+,	O
+he	O
+is	O
+a	O
+52-year	B-AGE
+-	O
+old	O
+male	O
+with	O
+recent	O
+history	O
+of	O
+palpitations	O
+discovered	O
+to	O
+be	O
+atrial	O
+fibrillation	O
+.	O
+
+Impression	O
+:	O
+69	B-AGE
+yo	O
+male	O
+s	O
+/	O
+p	O
+cystoscopy	O
+,	O
+laser	O
+lithotripsy	O
+,	O
+stone	O
+removal	O
+,	O
+and	O
+stents	O
+with	O
+post	O
+-	O
+op	O
+urinary	O
+retention	O
+.	O
+
+Ms.	O
+Xanders	B-PATIENT
+is	O
+a	O
+42-year	B-AGE
+-	O
+old	O
+woman	O
+with	O
+multiple	O
+medical	O
+problems	O
+who	O
+presents	O
+for	O
+evaluation	O
+of	O
+chronic	O
+hepatitis	O
+C.	O
+
+#	O
+FEN	O
+:	O
+-	O
+renal	O
+/	O
+cardiac	O
+/	O
+diabetic	O
+diet	O
+#	O
+PPX	O
+:	O
+-	O
+coumadinContact	O
+Info	O
+Edith	B-PATIENT
+Vandiver	I-PATIENT
+(	O
+significant	O
+other	O
+)	O
+216	B-PHONE
+-	I-PHONE
+669	I-PHONE
+-	I-PHONE
+9576Code	I-PHONE
+Status	O
+FULL	O
+CODE	O
+
+Edwin	B-PATIENT
+Workman	I-PATIENT
+
+Patient	O
+:	O
+Lloyd	B-PATIENT
+Coleman	I-PATIENT
+Reason	O
+for	O
+admission	O
+:	O
+headache	O
+,	O
+gait	O
+instability	O
+,	O
+mental	O
+slowness	O
+
+Xiao	B-PATIENT
+has	O
+been	O
+finalized	O
+.	O
+
+He	O
+refused	O
+surgery	O
+at	O
+that	O
+time	O
+at	O
+Campellton	B-HOSPITAL
+-	I-HOSPITAL
+Graceville	I-HOSPITAL
+Hospital	I-HOSPITAL
+and	O
+has	O
+done	O
+well	O
+on	O
+Dilantin	O
+without	O
+any	O
+seizures	O
+.	O
+
+SFOC	B-HOSPITAL
+is	O
+aware	O
+.	O
+
+Pt	O
+has	O
+not	O
+received	O
+stress	O
+test	O
+which	O
+was	O
+recommended	O
+after	O
+most	O
+recent	O
+WGH	B-HOSPITAL
+admission	O
+.	O
+
+He	O
+does	O
+recall	O
+having	O
+chest	O
+pressure	O
+and	O
+chest	O
+pain	O
+in	O
+Feb	B-DATE
+2147	I-DATE
+when	O
+he	O
+had	O
+a	O
+cardiac	O
+evaluation	O
+at	O
+the	O
+Pennsylvania	B-HOSPITAL
+Hospital	I-HOSPITAL
+.	O
+
+CENTER	B-HOSPITAL
+Reason	O
+for	O
+visit	O
+:	O
+
+I	O
+agree	O
+with	O
+Dr.	O
+Collins	B-DOCTOR
+'s	O
+note	O
+.	O
+

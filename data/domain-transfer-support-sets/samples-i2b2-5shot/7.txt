@@ -1,0 +1,625 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+vmeadows@sbhnc.org	B-EMAIL
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+Faxed	O
+emergency	O
+services	O
+physician	O
+referral	O
+form	O
+to	O
+192	B-FAX
+7991	I-FAX
+.	O
+
+The	O
+patient	O
+used	O
+to	O
+live	O
+in	O
+England	B-COUNTRY
+4	O
+days	O
+ago	O
+,	O
+arrived	O
+in	O
+Frankenmuth	B-CITY
+to	O
+live	O
+now	O
+permanently	O
+with	O
+his	O
+family	O
+here	O
+.	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+The	O
+patient	O
+said	O
+has	O
+no	O
+plans	O
+to	O
+get	O
+a	O
+doctor	O
+in	O
+America	B-COUNTRY
+.	O
+
+She	O
+plans	O
+a	O
+trip	O
+to	O
+Peru	B-COUNTRY
+soon	O
+.	O
+
+Moved	O
+from	O
+Iran	B-COUNTRY
+in	O
+April	B-DATE
+2135	I-DATE
+.	O
+
+however	O
+he	O
+went	O
+through	O
+divorce	O
+probably	O
+because	O
+of	O
+his	O
+alcoholism	O
+10	O
+years	O
+ago	O
+and	O
+took	O
+early	O
+retirement	O
+from	O
+Brookdale	B-ORGANIZATION
+Metro	I-ORGANIZATION
+Systems	I-ORGANIZATION
+because	O
+of	O
+his	O
+alcoholism	O
+.	O
+
+In	O
+viewing	O
+her	O
+present	O
+history	O
+,	O
+she	O
+works	O
+in	O
+the	O
+Houghton	B-ORGANIZATION
+Mifflin	I-ORGANIZATION
+Harcourt	I-ORGANIZATION
+learning	I-ORGANIZATION
+technology	I-ORGANIZATION
+department	I-ORGANIZATION
+.	O
+
+HPI	O
+Exercise	O
+:	O
+HS	O
+football	O
+westling	O
+,	O
+military	B-ORGANIZATION
+wrestling	O
+,	O
+coll	O
+wrestling	O
+,	O
+7	O
+mi	O
+/	O
+d	O
+run	O
+,	O
+tennis	O
+for	O
+20	O
+yrs	O
+w/	O
+wife	O
+.	O
+
+He	O
+works	O
+as	O
+an	O
+Revenue	B-PROFESSION
+Officer	I-PROFESSION
+for	O
+Springfield	B-ORGANIZATION
+Armory	I-ORGANIZATION
+Inc	I-ORGANIZATION
+in	O
+Picture	B-CITY
+Rocks	I-CITY
+,	O
+Maine	B-STATE
+.	O
+
+She	O
+is	O
+going	O
+to	O
+the	O
+Summer	B-ORGANIZATION
+Institute	I-ORGANIZATION
+for	I-ORGANIZATION
+the	I-ORGANIZATION
+Gifted	I-ORGANIZATION
+.	O
+
+MU830	B-USERNAME
+D:11/24/67	B-DATE
+T:11/24/67	B-DATE
+
+H.	B-DOCTOR
+U.	I-DOCTOR
+HEBERT	I-DOCTOR
+,	O
+M.D.	O
+UH02	B-USERNAME
+
+HO78	B-USERNAME
+
+M.D.	O
+QC22	B-USERNAME
+
+ED65	B-USERNAME
+
+31155	B-ZIP
+
+TX	B-STATE
+37523	B-ZIP
+
+Plymouth	B-CITY
+,	O
+IN	B-STATE
+46368	B-ZIP
+22041864	B-MEDICALRECORD
+(	B-PHONE
+958	I-PHONE
+)	I-PHONE
+688	I-PHONE
+-	I-PHONE
+5162	I-PHONE
+02/18/85	B-DATE
+Florence	B-DOCTOR
+Mildred	I-DOCTOR
+Yuan	I-DOCTOR
+,	O
+
+Cincinnati	B-CITY
+,	O
+WA	B-STATE
+33699	B-ZIP
+Youngman	B-PATIENT
+,	I-PATIENT
+
+Foxborough	B-CITY
+,	O
+TX	B-STATE
+58771	B-ZIP
+Dear	O
+Ken	B-DOCTOR
+:	O
+
+Earnest	B-DOCTOR
+Vanwinkle	I-DOCTOR
+,	O
+pager	O
+90009	B-PHONE
+
+#	O
+13828	B-PHONE
+
+pg	O
+00576	B-PHONE
+
+Pager	O
+#	O
+60809	B-PHONE
+
+Previously	O
+worked	O
+as	O
+a	O
+engineer	B-PROFESSION
+at	O
+IBM	B-ORGANIZATION
+research	I-ORGANIZATION
+,	O
+retried	O
+a	O
+few	O
+yrs	O
+ago	O
+.	O
+
+As	O
+you	O
+are	O
+aware	O
+he	O
+is	O
+a	O
+56	B-AGE
+year	O
+old	O
+man	O
+who	O
+is	O
+a	O
+convenience	B-PROFESSION
+store	I-PROFESSION
+manager	I-PROFESSION
+.	O
+
+Daughter	O
+is	O
+finished	O
+with	O
+college	O
+and	O
+Quarry	B-PROFESSION
+Worker	I-PROFESSION
+in	O
+the	O
+Bristow	B-CITY
+area	O
+.	O
+
+Occupation	O
+:	O
+Engineer	B-PROFESSION
+at	O
+Amazon	B-ORGANIZATION
+.	O
+
+Weymouth	B-STREET
+Dr	I-STREET
+
+40	B-STREET
+Harvard	I-STREET
+Street	I-STREET
+
+009	B-STREET
+Buchanan	I-STREET
+St	I-STREET
+Opp	B-CITY
+,	O
+OK	B-STATE
+21785	B-ZIP
+
+07	B-STREET
+Newburgh	I-STREET
+Street	I-STREET
+
+030	B-STREET
+
+MA317/6938	B-IDNUM
+
+VoiceJob	O
+ID	O
+:	O
+88198140	B-IDNUM
+
+VoiceJob	O
+ID	O
+:	O
+17480048	B-IDNUM
+
+eScription	O
+document:2	B-IDNUM
+
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+_	O
+HE342/20225	B-IDNUM
+
+Horn	B-PATIENT
+,	I-PATIENT
+Gregory	I-PATIENT
+BCC	B-HOSPITAL
+Unit	O
+#	O
+:	O
+977	B-MEDICALRECORD
+-	I-MEDICALRECORD
+82	I-MEDICALRECORD
+-	I-MEDICALRECORD
+23	I-MEDICALRECORD
+
+Record	O
+date	O
+:	O
+2089	B-DATE
+-	I-DATE
+11	I-DATE
+-	I-DATE
+30	I-DATE
+MRN	O
+:	O
+48726886	B-MEDICALRECORD
+FORT	B-HOSPITAL
+WASHINGTON	I-HOSPITAL
+HOSPITAL	I-HOSPITAL
+
+06386371	B-MEDICALRECORD
+11	B-DATE
+-	I-DATE
+30	I-DATE
+-	I-DATE
+93	I-DATE
+
+5747359	B-MEDICALRECORD
+
+Patient	O
+is	O
+a	O
+48-year	B-AGE
+-	O
+old	O
+gentleman	O
+with	O
+a	O
+history	O
+of	O
+lymphoma	O
+,	O
+diagnosed	O
+in	O
+2070	B-DATE
+when	O
+he	O
+presented	O
+with	O
+left	O
+axillary	O
+enlargement	O
+.	O
+
+75	B-AGE
+
+The	O
+patient	O
+is	O
+a	O
+68-year	B-AGE
+-	O
+old	O
+gentleman	O
+with	O
+past	O
+medical	O
+history	O
+of	O
+alcoholism	O
+,	O
+as	O
+well	O
+as	O
+depression	O
+.	O
+
+A	O
+positive	O
+family	O
+history	O
+of	O
+coronary	O
+artery	O
+disease	O
+including	O
+a	O
+mother	O
+who	O
+just	O
+died	O
+of	O
+a	O
+heart	O
+attack	O
+in	O
+May	B-DATE
+at	O
+age	O
+53	B-AGE
+and	O
+had	O
+had	O
+a	O
+previous	O
+MI	O
+at	O
+age	O
+40	B-AGE
+and	O
+a	O
+CABG	O
+at	O
+age	O
+43	B-AGE
+.	O
+
+I	O
+saw	O
+your	O
+patient	O
+,	O
+Kenneth	B-PATIENT
+Umstead	I-PATIENT
+,	O
+in	O
+the	O
+Cardiology	O
+office	O
+today	O
+
+-	B-DATE
+05	I-DATE
+-	I-DATE
+26	I-DATE
+Internal	O
+Medicine	O
+Admission	O
+Note	O
+PATIENT	O
+:	O
+Fredrick	B-PATIENT
+Debra	I-PATIENT
+,	I-PATIENT
+Walter	I-PATIENT
+,	O
+PhD	O
+
+Re	O
+:	O
+Horn	B-PATIENT
+,	I-PATIENT
+Gregory	I-PATIENT
+BCC	B-HOSPITAL
+Unit	O
+#	O
+:	O
+977	B-MEDICALRECORD
+-	I-MEDICALRECORD
+82	I-MEDICALRECORD
+-	I-MEDICALRECORD
+23	I-MEDICALRECORD
+
+Will	O
+need	O
+to	O
+contact	O
+HMC	B-HOSPITAL
+re	O
+:	O
+her	O
+care	O
+.	O
+
+I	O
+believe	O
+self	O
+referred	O
+to	O
+Janesville	B-HOSPITAL
+for	O
+further	O
+evaluation	O
+.	O
+
+STEPHEN	B-DOCTOR
+X.	I-DOCTOR
+PIKE	I-DOCTOR
+,	O
+M.D.	O
+

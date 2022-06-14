@@ -1,0 +1,132 @@
+vmeadows@sbhnc.org	B-EMAIL
+
+320.821.2954	B-FAX
+Initial	O
+Medical	O
+Consultation	O
+Follow	O
+-	O
+up	O
+
+The	O
+patient	O
+said	O
+has	O
+no	O
+plans	O
+to	O
+get	O
+a	O
+doctor	O
+in	O
+America	B-COUNTRY
+.	O
+
+He	O
+works	O
+as	O
+an	O
+Revenue	B-PROFESSION
+Officer	I-PROFESSION
+for	O
+Springfield	B-ORGANIZATION
+Armory	I-ORGANIZATION
+Inc	I-ORGANIZATION
+in	O
+Picture	B-CITY
+Rocks	I-CITY
+,	O
+Maine	B-STATE
+.	O
+
+UNKNOWN	B-DOCTOR
+Y.	I-DOCTOR
+PARRA	I-DOCTOR
+,	O
+M.D.	O
+UP65	B-USERNAME
+
+Snowflake	B-CITY
+,	O
+HI	B-STATE
+,	O
+99981	B-ZIP
+-	I-ZIP
+2297	I-ZIP
+RE	O
+:	O
+
+567	B-PHONE
+876	I-PHONE
+2685	I-PHONE
+ADMISSION	O
+DATE	O
+:	O
+07/01/2095	B-DATE
+
+007	B-STREET
+
+_	O
+OP274/66298	B-IDNUM
+
+#	O
+898	B-MEDICALRECORD
+-	I-MEDICALRECORD
+97	I-MEDICALRECORD
+-	I-MEDICALRECORD
+85	I-MEDICALRECORD
+-	I-MEDICALRECORD
+6	I-MEDICALRECORD
+July	B-DATE
+20	I-DATE
+,	I-DATE
+2079	I-DATE
+
+As	O
+you	O
+recall	O
+,	O
+he	O
+is	O
+a	O
+very	O
+pleasant	O
+71-year	B-AGE
+-	O
+old	O
+gentleman	O
+with	O
+a	O
+history	O
+of	O
+right	O
+-	O
+sided	O
+trigeminal	O
+neuralgia	O
+.	O
+
+Her	O
+daughter	O
+,	O
+Iyanna	B-PATIENT
+Field	I-PATIENT
+who	O
+is	O
+a	O
+registered	B-PROFESSION
+nurse	I-PROFESSION
+,	O
+will	O
+continue	O
+to	O
+monitor	O
+her	O
+blood	O
+pressure	O
+.	O
+
+PAH	B-HOSPITAL
+#	O
+:	O
+
